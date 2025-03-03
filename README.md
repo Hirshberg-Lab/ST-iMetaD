@@ -7,3 +7,5 @@ https://doi.org/10.48550/arXiv.2401.14237)
 
 This repository provides example input files for the simulations reported in the above paper. 
 In addition, the tutorial directory provides a Python file implementing the ST-iMetaD inference scheme and a tutorial jupyter notebook, as well as source data for the figures.
+
+We note that there is an error in the labels of Figure 5c of the paper: the correct units are nanoseconds, and not microsecond as written.
